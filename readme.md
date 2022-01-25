@@ -1,5 +1,7 @@
 # Download
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/c9eb24f3-8ecc-4175-bf07-9a6726d079b2.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/automated-ad-setup?orgId=561911742905)  
+
 [![Download Beta](https://img.shields.io/badge/Latest%20Stable%20Release-v1.0-green.svg)](https://github.com/OneLogicalMyth/Automated-AD-Setup/archive/latest.zip)
 
 # Introduction
